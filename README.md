@@ -1,4 +1,5 @@
 # Frontend
+![Captura de tela 2023-10-02 164005](https://github.com/OstroskiAllan/AplicacaoAngular-CRUD/assets/63799954/82fa7c63-7d18-4aa9-ba50-e7ed66c2631d)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
 
@@ -25,3 +26,13 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# Backend
+
+I created a folder called backend in this same repository.
+## Running Backend
+To run the backend you need to give the following commands:
+
+Run `npm install`
+Run `npm start`
+
